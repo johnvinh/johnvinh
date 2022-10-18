@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [various school projects](https://github.com/johnvinh/AlgonquinF22Java)
 
-- 🌱 I’m currently learning **DevOps concepts and Docker**
+- 🌱 I’m currently learning **DevOps concepts, Docker, and Minecraft server plugin development**
 
 - 📖 I go to school at **Algonquin College**
 
