@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps concepts, Docker, and Minecraft server plugin development**
 
-- 📖 I go to school at **Algonquin College**
+- 📖 I go to school at **Algonquin College in the Computer Engineering Technology - Computing Science program**
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnvinh?tab=repositories](https://github.com/johnvinh?tab=repositories)
 
