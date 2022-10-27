@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A computer engineering student from Canada</h3>
+<h3 align="center">A computer science student from Canada</h3>
 
 - 🔭 I’m currently working on [various school projects](https://github.com/johnvinh/AlgonquinF22Java)
 
