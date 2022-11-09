@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A computer science student from Canada</h3>
 
-- 🔭 I’m currently working on [various school projects](https://github.com/johnvinh/AlgonquinF22Java)
+- 🔭 I’m currently working on my portfolio website and [various school projects](https://github.com/johnvinh/AlgonquinF22Java)
 
 - 🌱 I’m currently learning **Svelte**
 
