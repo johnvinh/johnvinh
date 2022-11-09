@@ -19,3 +19,8 @@
 <a href="https://codeforces.com/profile/johnvinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="johnvinh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/johnvinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="johnvinh" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnvinh&show_icons=true&locale=en&layout=compact" alt="johnvinh" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnvinh&" alt="johnvinh" />
+</p>
