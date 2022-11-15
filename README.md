@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio website and [various school projects](https://github.com/johnvinh/AlgonquinF22Java)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte and Kotlin**
 
 - 📖 I go to school at **Algonquin College in the Computer Engineering Technology - Computing Science program**
 
