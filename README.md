@@ -7,7 +7,9 @@
 
 - 📖 I go to school at **Algonquin College in the Computer Engineering Technology - Computing Science program**
 
-- 👨‍💻 Check out my website: [https://www.johnvinh.dev/](https://www.johnvinh.dev/)
+- 👨‍💻 Check out my website: [https://www.johnvinh.dev/](https://www.johnvinh.dev/) and <strong><a href="https://linktr.ee/johnvinh">my links</a></strong>
+
+- 📫 How to reach me: https://twitter.com/JohnVinhDev
 
 - ⚡ Fun fact **I enjoy coffee**
 
