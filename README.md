@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.johnvinh.dev/blog](https://www.johnvinh.dev/blog)
 
-- 📫 How to reach me [https://twitter.com/JohnVinhDev](Twitter) or [https://www.linkedin.com/in/john-vinh/](LinkedIn)
+- 📫 How to reach me: [Twitter](https://twitter.com/JohnVinhDev) or [LinkedIn](https://www.linkedin.com/in/john-vinh/)
 
 - ⚡ Fun fact **I love coffee ☕ and drink it every day**
 
