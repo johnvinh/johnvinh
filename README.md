@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://www.johnvinh.dev/projects](https://www.johnvinh.dev/projects)
+- 👨‍💻 All of my projects are available at [my website](https://www.johnvinh.dev/projects)
 
-- 📝 I regularly write articles on [https://www.johnvinh.dev/blog](https://www.johnvinh.dev/blog)
+- 📝 I regularly write articles on [my blog](https://www.johnvinh.dev/blog)
 
 - 📫 How to reach me: [Twitter](https://twitter.com/JohnVinhDev) or [LinkedIn](https://www.linkedin.com/in/john-vinh/)
 
