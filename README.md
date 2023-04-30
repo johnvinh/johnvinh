@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Vinh</h1>
 <h3 align="center">A curious software developer from Canada</h3>
 
-- 🔭 I’m currently working on [Advent of Code](https://github.com/johnvinh/advent-of-code-kotlin)
+- 🔭 I’m currently working on [a Reddit clone](https://github.com/johnvinh/reddit-clone) and [a Minecraft minigame](https://github.com/johnvinh/one-in-the-chamber)
 
 - 🌱 I’m currently learning **Kotlin**
 
